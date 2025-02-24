@@ -145,8 +145,8 @@ class ChineseCalendarCard extends LitElement {
         }
         .container {
           background: var(--main-bg-color);
-          border-top-left-radius: 8px;
-          border-top-right-radius: 8px;
+          border-top-left-radius: 0px;
+          border-top-right-radius: 0px;
         }
         .list_container {
           padding-bottom: 20px;
